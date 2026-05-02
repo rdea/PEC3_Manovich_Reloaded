@@ -13,3 +13,17 @@ PEC3: Manovich Reloaded - Estudio de casos de Hibridación
 ![Hibridación de espacios y medios en Zoom](./img/zoom-hibridacion.png)
 
 
+## Referencias y Bibliografía
+
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+*Documento elaborado bajo licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es).  
+Recursos de IA generativa. Durante la elaboración de este trabajo se ha utilizado de
+forma puntual la herramienta de inteligencia artificial generativa Gemini (Google) con
+el objetivo de apoyar la búsqueda de fuentes y contrastar información relacionada con las funcionalidades de las dos herramientas. Tambien se ha usado para la creación de las imagenes.
+
+Su uso se ha limitado a tareas de documentación y orientación bibliográfica, sin emplearse
+para la redacción del contenido del ensayo, que ha sido elaborado de forma original a partir de
+las fuentes consultadas y la reflexión personal del autor.
+La información proporcionada por la herramienta ha sido verificada posteriormente
+mediante fuentes externas fiables, siguiendo las recomendaciones de uso académico
+de la inteligencia artificial.
