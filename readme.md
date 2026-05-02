@@ -16,6 +16,7 @@ PEC3: Manovich Reloaded - Estudio de casos de Hibridación
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+
 *Documento elaborado bajo licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es).  
 Recursos de IA generativa. Durante la elaboración de este trabajo se ha utilizado de
 forma puntual la herramienta de inteligencia artificial generativa Gemini (Google) con
