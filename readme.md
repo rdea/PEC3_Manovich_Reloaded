@@ -62,6 +62,19 @@ Autotune ha alterado la percepción del talento musical: la afinación perfecta 
 
 ## Caso 2: Zoom — El nuevo espacio social híbrido
 ![Hibridación de espacios y medios en Zoom](./img/zoom-hibridacion.png)
+Zoom, la plataforma de videoconferencia lanzada en 2013 que, a partir de 2020, se 
+convirtió en la infraestructura de comunicación por defecto de millones de personas en 
+todo el mundo. 
+Más allá de ser una herramienta de videollamada, representa un caso fascinante de hibridación: la fusión, en un único entorno de software, del espacio físico de reunión presencial, la televisión, el teléfono, el chat, la pizarra colaborativa y el proyector.
+
+### Representación numérica: el espacio físico como datos
+
+En Zoom, el espacio físico de la reunión se convierte en **datos numéricos**: el vídeo 
+se digitaliza en píxeles, el audio en muestras de frecuencia y las interacciones 
+(reacciones, chat, encuestas) en registros de base de datos. La presencia física —condición 
+necesaria para la comunicación cara a cara— se transforma en una representación digital 
+transmisible a cualquier punto del planeta. Esta recodificación del espacio en datos es 
+la base de toda la hibridación que define a Zoom.
 
 
 ## Referencias y Bibliografía
