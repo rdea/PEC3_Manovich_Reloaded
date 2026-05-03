@@ -28,6 +28,38 @@ El primer principio que identifica Manovich es la **representación numérica**.
 Autotune, recibe como entrada una voz humana y la transforma en datos matemáticos: Amplitudes de onda, frecuencias, duraciones...
 Una desviación o una nota desafinada pasa de ser un error humano a convertirse en un dato, un número que el algoritmo corrige en tiempo real, una transformación que es el punto de partida de toda hibridación.
 
+### Modularidad y automatización en el estudio
+
+Con la **modularidad**, el software de Autotune trata las notas grabadas de manera independiente, de esta manera, permite ajustarse sin afectar al resto de la interpretación, como si la granularidad del software se tradujera al sonido.
+Esta lógica, llevada desde el software hasta el estudio de grabación, permite un nivel de perfeccionamiento que supera las capacidades físicas del intérprete.
+
+/**Gracias a la **modularidad**, Autotune trata cada nota grabada como una unidad independiente que puede ajustarse sin afectar al resto de la interpretación, como si se tratara de bloques de código reutilizables. Esta lógica, trasladada del software al estudio de grabación, permite un nivel de perfeccionamiento que supera las capacidades físicas del intérprete.*/
+
+La **automatización** Es posiblemente el rasgo más visible y destacado de la aplicación: Corrige en tiempo real el tono, sin que el artista deba parar o pausar su interpretación. Como Manovich detalla al describir este principio:
+
+> *"En lugar de controlar cada detalle, el usuario especifica unos parámetros y se 
+> limita a activar la herramienta."*  
+> — Manovich, *El Software toma el mando*(2013)
+
+### Variabilidad y transcodificación cultural
+
+Con el concepto de la **variabilidad** es donde la hibridación se vuelve más rica: un mismo parámetro como puede ser la velocidad de corrección produce resultados totalmente distintos, desde afinaciones imperceptibles hasta el icónico efecto robótico popularizado por Cher en *Believe* (1998), T-Pain en los 2000 o más actual Bad Bunny y la escena del Trap en la que No se busca la perfección vocal, sino una textura específica que encaje con los graves de la música. 
+
+La **transcodificación cultural** es la dimensión más profunda. Como advierte Manovich, 
+la hibridación de los medios no es neutral: reconfigura nuestra percepción de la cultura:
+
+> *"Las propiedades y técnicas exclusivas de distintos medios se han convertido en 
+> elementos de software que pueden combinarse por vías que antes resultaban imposibles."*  
+> — Manovich, *El Software toma el mando*, p. 260
+
+Autotune ha alterado la percepción del talento musical: la afinación perfecta ha pasado de ser un logro excepcional, con muchas horas y experiencia por detras para lograrlo a ser una norma de producción estándar. Algunos géneros adoptaron el defecto el autotune como seña de identidad convirtiendo esta herramienta en un nuevo lenguaje expresivo, fusionando lo humano con lo digital.
+
+**Ventajas principales:**
+1. **Mejora vocal:** Permite interpretaciones precisas en cualquier artista.
+2. **Creatividad musical:** Amplía la expresión musical más allá de la voz humana.
+3. **Accesibilidad:** Musicos aficionados pueden realizar una producción de alta calidad.
+
+
 ## Caso 2: Zoom — El nuevo espacio social híbrido
 ![Hibridación de espacios y medios en Zoom](./img/zoom-hibridacion.png)
 
