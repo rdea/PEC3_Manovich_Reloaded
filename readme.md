@@ -50,7 +50,7 @@ la hibridación de los medios no es neutral: reconfigura nuestra percepción de 
 
 > *"Las propiedades y técnicas exclusivas de distintos medios se han convertido en 
 > elementos de software que pueden combinarse por vías que antes resultaban imposibles."*  
-> — Manovich, *El Software toma el mando*, p. 260
+> — Manovich, *El Software toma el mando*(2013)
 
 Autotune ha alterado la percepción del talento musical: la afinación perfecta ha pasado de ser un logro excepcional, con muchas horas y experiencia por detras para lograrlo a ser una norma de producción estándar. Algunos géneros adoptaron el defecto el autotune como seña de identidad convirtiendo esta herramienta en un nuevo lenguaje expresivo, fusionando lo humano con lo digital.
 
