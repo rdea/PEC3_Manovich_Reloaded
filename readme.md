@@ -76,10 +76,69 @@ necesaria para la comunicación cara a cara— se transforma en una representaci
 transmisible a cualquier punto del planeta. Esta recodificación del espacio en datos es 
 la base de toda la hibridación que define a Zoom.
 
+### Modularidad: medios apilados en un mismo entorno
+
+La **modularidad** se puede palpar en su interfaz: la ventana de 
+vídeo , el chat lateral, la pizarra virtual , la pantalla compartida, los fondos virtuales y las 
+salas de grupos coexisten como módulos independientes que pueden activarse o 
+desactivarse sin afectar al resto.
+Manovich describe exactamente este fenómeno al hablar de los medios híbridos:
+
+> *"se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a 
+> experimentar los elementos uno por uno."*  
+> — Manovich, *El Software toma el mando*, (2013)
+
+Cada módulo de Zoom hereda las convenciones de un medio preexistente, pero juntos crean una experiencia que ninguno podría ofrecer por separado.
+
+### Automatización: el software gestiona el espacio social
+
+La **automatización** es una de las partes core en Zoom: la supresión automática del ruido de fondo, el realce de voz, el enfoque automático de cámara, difuminar el fondo de la camara, la iluminación por software y la transcripción en tiempo real son procesos que el usuario nunca ejecuta conscientemente. 
+
+El software gestiona de forma autónoma aspectos que en un espacio físico requerirían 
+una buena acústica, condiciones optimas de iluminación e incluso equipos especializados.
+
+### Variabilidad y transcodificación del espacio social
+
+La **variabilidad** se manifiesta en la capacidad de Zoom para adaptarse a contextos 
+radicalmente distintos: una clase universitaria, una reunión de trabajo, una consulta 
+médica, un concierto o una celebración familiar. El mismo software genera experiencias 
+completamente diferentes según los módulos activados y los permisos configurados.
+
+La **transcodificación cultural** es quizás el impacto más profundo. Manovich señala 
+como a traves del software de los medios se reconfigura toda la cultura:
+
+> *"el software reajusta y reconfigura todo aquello donde se aplica [...] añadir el 
+> software a la cultura cambia la identidad de todo lo que conforma la cultura."*  
+> — Manovich, *El Software toma el mando*,(2013) p. 232
+
+Zoom ha recodificado conceptos tan fundamentales como "el trabajo", "el aula" o "la 
+reunión familiar". El "fondo virtual" permite que cualquier persona proyecte un entorno 
+diferente al real, una hibridación entre identidad física y construcción digital de la 
+presencia que encarna a la perfección la nueva fase de la que habla Manovich:
+
+> *"Entramos en un nuevo periodo regido por la hibridación. Los medios ya simulados 
+> empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador 
+> pasó a contener infinitas nuevas especies."*  
+> — Manovich, *El Software toma el mando*,(2013)
+
+Zoom no ha sustituido al espacio físico: lo ha hibridado, generando una experiencia 
+que no es ni presencial ni puramente virtual, sino radicalmente nueva.
+
+**Ventajas principales:**
+1. **Accesibilidad social:** Elimina las barreras geográficas en la comunicación cara a cara.
+2. **Flexibilidad contextual:** Se adapta a usos laborales, educativos, médicos y personales.
+3. **Convergencia modular:** Integra en un único entorno herramientas antes dispersas.
+
 
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+* Isaza, Miguel. (2022). *La historia de Auto-Tune: de la geofísica a la música cibernética*.
+* Arte TV. *Autotune, el photoshop de la voz*.
+* Zoom. (2023). *Guía para organizar eventos híbridos*. 
+  [zoom.com](https://explore.zoom.us/es/products/event-platform/resources/hosting-hybrid-events/)
+* Revista Protocolo. (2021). *Eventos virtuales e híbridos, algo más que un simple 
+  encuentro por Zoom*.
 
 *Documento elaborado bajo licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es).  
 Recursos de IA generativa. Durante la elaboración de este trabajo se ha utilizado de
