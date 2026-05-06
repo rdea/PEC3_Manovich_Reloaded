@@ -33,7 +33,6 @@ Una desviación o una nota desafinada pasa de ser un error humano a convertirse 
 Con la **modularidad**, el software de Autotune trata las notas grabadas de manera independiente, de esta manera, permite ajustarse sin afectar al resto de la interpretación, como si la granularidad del software se tradujera al sonido.
 Esta lógica, llevada desde el software hasta el estudio de grabación, permite un nivel de perfeccionamiento que supera las capacidades físicas del intérprete.
 
-/**Gracias a la **modularidad**, Autotune trata cada nota grabada como una unidad independiente que puede ajustarse sin afectar al resto de la interpretación, como si se tratara de bloques de código reutilizables. Esta lógica, trasladada del software al estudio de grabación, permite un nivel de perfeccionamiento que supera las capacidades físicas del intérprete.*/
 
 La **automatización** Es posiblemente el rasgo más visible y destacado de la aplicación: Corrige en tiempo real el tono, sin que el artista deba parar o pausar su interpretación. Como Manovich detalla al describir este principio:
 
