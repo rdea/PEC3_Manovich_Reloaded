@@ -109,7 +109,7 @@ como a traves del software de los medios se reconfigura toda la cultura:
 
 > *"el software reajusta y reconfigura todo aquello donde se aplica [...] añadir el 
 > software a la cultura cambia la identidad de todo lo que conforma la cultura."*  
-> — Manovich, *El Software toma el mando*,(2013) p. 232
+> — Manovich, *El Software toma el mando*,(2013) 
 
 Zoom ha recodificado conceptos tan fundamentales como "el trabajo", "el aula" o "la 
 reunión familiar". El "fondo virtual" permite que cualquier persona proyecte un entorno 
