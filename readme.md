@@ -9,7 +9,7 @@ PEC3: Manovich Reloaded - Estudio de casos de Hibridación
 Lev Manovich, en *El Software toma el mando* (2013), propone el concepto de **hibridación de medios** como algo distinto a la simple multimedia. Según él:
 
 > *"En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos."*  
- — Manovich, *El Software toma el mando* (2013), p. 241
+ — Manovich, *El Software toma el mando* (2013)
 
 Es decir, mientras en la multimedia los distintos elementos conviven sin mezclarse —"cada elemento se abre en su propio visor"—, en la hibridación verdadera los lenguajes de los medios se fusionan para generar algo que no existía antes. Con esta perspectiva analizamos a continuación dos casos contemporáneos: **Autotune** y **Zoom**.
 
