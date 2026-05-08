@@ -53,6 +53,13 @@ la hibridación de los medios no es neutral: reconfigura nuestra percepción de 
 
 Autotune ha alterado la percepción del talento musical: la afinación perfecta ha pasado de ser un logro excepcional, con muchas horas y experiencia por detras para lograrlo a ser una norma de producción estándar. Algunos géneros adoptaron el defecto el autotune como seña de identidad convirtiendo esta herramienta en un nuevo lenguaje expresivo, fusionando lo humano con lo digital.
 
+ Autotune no es un simple caso donde distintos medios coexisten sin fusionarse, sino un auténtico 
+**híbrido de medios**. Como señala Manovich, "en lugar de numerosos materiales e instrumentos por separado, ahora podemos utilizar 
+una única aplicación de software cuyas herramientas y filtros pueden simular diversas técnicas de creación y modificación de medios" (Manovich, 2013). 
+Esto es exactamente lo que ocurre con Autotune: la voz humana, que era un medio con sus propias 
+características físicas e irrepetibles, se convierte en datos manipulables sobre la que pueden operar tanto técnicas específicas del medio  como **técnicas independientes del medio** que Manovich identifica como el rasgo definitorio del metamedio ordenador.
+
+
 **Ventajas principales:**
 1. **Mejora vocal:** Permite interpretaciones precisas en cualquier artista.
 2. **Creatividad musical:** Amplía la expresión musical más allá de la voz humana.
@@ -122,6 +129,20 @@ presencia que encarna a la perfección la nueva fase de la que habla Manovich:
 
 Zoom no ha sustituido al espacio físico: lo ha hibridado, generando una experiencia 
 que no es ni presencial ni puramente virtual, sino radicalmente nueva.
+
+Analizando Zoom con las gafas de Manovich, encontramos una hibridación que combina 
+**dos de las estrategias** que el autor describe, la estrategia de **combinación de tipos de medios**
+Zoom unifica en un único entorno de software medios que antes existían de forma completamente separada —la telefonía 
+de voz, la videoconferencia, la mensajería instantánea... 
+Este acto no es multimedia: no son medios que compartiendo una convivencia en paralelo, como explica Manovich, 
+"se unen distintos formatos de representación [...] con el fin de aumentar el valor representativo y expresivo que ofrece cada tipo de 
+medio utilizado" (Manovich, 2013).
+
+En segundo lugar y más significativamente, Zoom ejemplifica la estrategia 
+de **usar un tipo de medio como envoltorio para otro**. El espacio de reunión virtual se convierte en la interfaz que 
+contiene y articula todos los demás medios, la plataforma, lleva esta lógica al 
+extremo. Más que una herramienta, Zoom funciona como un nuevo punto de encuentro: un espacio que atraviesa las fronteras físicas
+ofreciendo un medio distribuido y parametrizable.
 
 **Ventajas principales:**
 1. **Accesibilidad social:** Elimina las barreras geográficas en la comunicación cara a cara.
