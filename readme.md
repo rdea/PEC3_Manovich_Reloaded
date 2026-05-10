@@ -38,7 +38,7 @@ La **automatización** Es posiblemente el rasgo más visible y destacado de la a
 
 > *"En lugar de controlar cada detalle, el usuario especifica unos parámetros y se 
 > limita a activar la herramienta."*  
-> — Manovich, *El Software toma el mando*(2013)
+> — Manovich, *El Software toma el mando* (2013)
 
 ### Variabilidad y transcodificación cultural
 
@@ -49,9 +49,9 @@ la hibridación de los medios no es neutral: reconfigura nuestra percepción de 
 
 > *"Las propiedades y técnicas exclusivas de distintos medios se han convertido en 
 > elementos de software que pueden combinarse por vías que antes resultaban imposibles."*  
-> — Manovich, *El Software toma el mando*(2013)
+> — Manovich, *El Software toma el mando* (2013)
 
-Autotune ha alterado la percepción del talento musical: la afinación perfecta ha pasado de ser un logro excepcional, con muchas horas y experiencia por detras para lograrlo a ser una norma de producción estándar. Algunos géneros adoptaron el defecto el autotune como seña de identidad convirtiendo esta herramienta en un nuevo lenguaje expresivo, fusionando lo humano con lo digital.
+Autotune ha alterado la percepción del talento musical: la afinación perfecta ha pasado de ser un logro excepcional, con muchas horas y experiencia por detrás para lograrlo a ser una norma de producción estándar. Algunos géneros adoptaron el defecto el Autotune como seña de identidad convirtiendo esta herramienta en un nuevo lenguaje expresivo, fusionando lo humano con lo digital.
 
  Autotune no es un simple caso donde distintos medios coexisten sin fusionarse, sino un auténtico 
 **híbrido de medios**. Como señala Manovich, "en lugar de numerosos materiales e instrumentos por separado, ahora podemos utilizar 
@@ -63,7 +63,7 @@ características físicas e irrepetibles, se convierte en datos manipulables sob
 **Ventajas principales:**
 1. **Mejora vocal:** Permite interpretaciones precisas en cualquier artista.
 2. **Creatividad musical:** Amplía la expresión musical más allá de la voz humana.
-3. **Accesibilidad:** Musicos aficionados pueden realizar una producción de alta calidad.
+3. **Accesibilidad:** Músicos aficionados pueden realizar una producción de alta calidad.
 
 
 ## Caso 2: Zoom — El nuevo espacio social híbrido
@@ -85,7 +85,7 @@ la base de toda la hibridación que define a Zoom.
 ### Modularidad: medios apilados en un mismo entorno
 
 La **modularidad** se puede palpar en su interfaz: la ventana de 
-vídeo , el chat lateral, la pizarra virtual , la pantalla compartida, los fondos virtuales y las 
+vídeo, el chat lateral, la pizarra virtual , la pantalla compartida, los fondos virtuales y las 
 salas de grupos coexisten como módulos independientes que pueden activarse o 
 desactivarse sin afectar al resto.
 Manovich describe exactamente este fenómeno al hablar de los medios híbridos:
@@ -98,10 +98,9 @@ Cada módulo de Zoom hereda las convenciones de un medio preexistente, pero junt
 
 ### Automatización: el software gestiona el espacio social
 
-La **automatización** es una de las partes core en Zoom: la supresión automática del ruido de fondo, el realce de voz, el enfoque automático de cámara, difuminar el fondo de la camara, la iluminación por software y la transcripción en tiempo real son procesos que el usuario nunca ejecuta conscientemente. 
+La **automatización** es una de las partes core en Zoom: la supresión automática del ruido de fondo, el realce de voz, el enfoque automático de cámara, difuminar el fondo de la cámara, la iluminación por software y la transcripción en tiempo real son procesos que el usuario nunca ejecuta conscientemente. 
 
-El software gestiona de forma autónoma aspectos que en un espacio físico requerirían 
-una buena acústica, condiciones optimas de iluminación e incluso equipos especializados.
+El software gestiona de forma autónoma aspectos que en un espacio físico requerirían una buena acústica, condiciones óptimas de iluminación e incluso equipos especializados.
 
 ### Variabilidad y transcodificación del espacio social
 
@@ -111,11 +110,11 @@ médica, un concierto o una celebración familiar. El mismo software genera expe
 completamente diferentes según los módulos activados y los permisos configurados.
 
 La **transcodificación cultural** es quizás el impacto más profundo. Manovich señala 
-como a traves del software de los medios se reconfigura toda la cultura:
+como a través del software de los medios se reconfigura toda la cultura:
 
 > *"el software reajusta y reconfigura todo aquello donde se aplica [...] añadir el 
 > software a la cultura cambia la identidad de todo lo que conforma la cultura."*  
-> — Manovich, *El Software toma el mando*,(2013) 
+> — Manovich, *El Software toma el mando*, (2013) 
 
 Zoom ha recodificado conceptos tan fundamentales como "el trabajo", "el aula" o "la 
 reunión familiar". El "fondo virtual" permite que cualquier persona proyecte un entorno 
@@ -125,7 +124,7 @@ presencia que encarna a la perfección la nueva fase de la que habla Manovich:
 > *"Entramos en un nuevo periodo regido por la hibridación. Los medios ya simulados 
 > empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador 
 > pasó a contener infinitas nuevas especies."*  
-> — Manovich, *El Software toma el mando*,(2013)
+> — Manovich, *El Software toma el mando*, (2013)
 
 Zoom no ha sustituido al espacio físico: lo ha hibridado, generando una experiencia 
 que no es ni presencial ni puramente virtual, sino radicalmente nueva.
